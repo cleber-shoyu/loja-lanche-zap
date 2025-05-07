@@ -18,6 +18,7 @@ Acesse o projeto clicando no link abaixo:
 - 🛒 **Zustand** — Gerenciamento de estado simples e leve (utilizado para o carrinho de compras).
 - 🎨 **Shadcn UI** — Biblioteca de componentes acessíveis com visual moderno.
 - 💨 **Tailwind CSS** — Utilitário CSS para estilização rápida e responsiva.
+- **Linguagem:** - Typescript
 
 ---
 
