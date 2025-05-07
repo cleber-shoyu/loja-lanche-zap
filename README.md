@@ -28,14 +28,14 @@ Siga os passos abaixo para rodar o projeto localmente:
 ## 1. Clone o repositório:
 `https://github.com/cleber-shoyu/loja-lanche-zap.git`
 
---
+---
 ## 2. instale as dependências:
 ```
 # npm install
 # ou
 # yarn
 ```
---
+---
 ## 3. Acesse no navegador:
 `http://localhost:3000`
 
