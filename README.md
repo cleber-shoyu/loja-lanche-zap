@@ -1,6 +1,6 @@
-# @octocat:sushi: Loja Lanche Zap
+# 🍣 Loja Lanche Zap
 
-Aplicação web de pedidos online desenvolvida com foco em performance, usabilidade e design moderno.
+Aplicação web de pedidos online desenvolvida com foco em performance, usabilidade e design moderno. 
 
 ---
 
